@@ -1,6 +1,6 @@
 # vueapp
 
-> A Vue.js project done following tutorial: https://www.youtube.com/watch?v=z6hQqgvGI4Y
+> A Vue.js project done according to following tutorial: https://www.youtube.com/watch?v=z6hQqgvGI4Y
 
 ## Build Setup
 
